@@ -1,4 +1,4 @@
 interface:
   display_name: "内在骑士圆桌会议"
-  short_description: "动态召唤一席，以角色思辨、观点摩擦和接话钩子启发选择"
-  default_prompt: "使用 $inner-knights-roundtable 帮我厘清当前困惑；每轮只召唤一位骑士，既接住事实也指出盲点，并留下自然、开放的接话入口。"
+  short_description: "逐层剥开纠结核心，动态召唤一席，以角色思辨推动清醒选择"
+  default_prompt: "使用 $inner-knights-roundtable 帮我逐层剥开为什么纠结；先找出“我既……又……”的核心冲突，再讨论最终选择。"
