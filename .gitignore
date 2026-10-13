@@ -1,0 +1,2 @@
+# Local user state must never be committed.
+state/
